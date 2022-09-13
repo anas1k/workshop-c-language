@@ -5,10 +5,12 @@ int main(){
 	scanf("%c",&c);
 	
 	switch(c){
-		case 'a'||'e':
+		case 'a':
 			printf("Votre charactere '%c' est une voyelle.",c);
 			break;
-			
+		case 'e':
+			printf("Votre charactere '%c' est une voyelle.",c);
+			break;	
 		case 'i':
 			printf("Votre charactere '%c' est une voyelle.",c);
 			break;
