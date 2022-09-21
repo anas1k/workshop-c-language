@@ -1,4 +1,5 @@
 #include <stdio.h>
+int exchange(int a,int b);
 int main(){
 	int c,d;
 	printf("Saisir nombre : ");
